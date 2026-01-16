@@ -1,0 +1,10 @@
+_src
+.gitignore
+.shopifyignore
+.theme-check.yml
+ini.sh
+package.json
+package-lock.json
+README.md
+shopify.theme.toml
+vite.config.mjs

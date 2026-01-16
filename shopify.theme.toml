@@ -1,0 +1,4 @@
+[environments.project]
+store = "[YOUR-SHOPIFY-STORE].myshopify.com"
+output = "json"
+allow-live = false

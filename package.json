@@ -1,0 +1,22 @@
+{
+  "name": "latori-dawn-vite-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Patrick Schneider <patrick.schneider@latori.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "shopify theme dev --environment project --theme-editor-sync --poll",
+    "vite": "vite dev",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@by-association-only/vite-plugin-shopify-clean": "^2.2.0",
+    "vite": "^6.3.3",
+    "vite-plugin-shopify": "^4.0.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
